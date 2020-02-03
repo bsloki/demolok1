@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/demolok1" mode="merge"/>
+    <filter root="/content/demolok1" mode="merge"/>
+    <filter root="/content/dam/demolok1" mode="merge"/>
+</workspaceFilter>
